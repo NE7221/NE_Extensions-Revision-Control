@@ -1,1 +1,22 @@
-
+{
+  "free": {
+    "version": "1.0.0",
+    "url": "https://q6neshop.booth.pm/items/7940774",
+    "changelog": "リリースしました"
+  },
+  "standard": {
+    "version": "1.0.0",
+    "url": "https://q6neshop.booth.pm/items/7940774",
+    "changelog": "リリースしました"
+  },
+  "full": {
+    "version": "1.0.0",
+    "url": "https://q6neshop.booth.pm/items/7940774",
+    "changelog": "リリースしました"
+  },
+  "beta": {
+    "version": "0.9.0",
+    "url": "https://n-e.fanbox.cc/manage/posts/11359657",
+    "changelog": "リリースしました"
+  }
+}
